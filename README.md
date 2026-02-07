@@ -1,5 +1,8 @@
 # Project: Mem U Trader
 
+※発表内容、demo動画は/slide /movieにあります！
+
+
 ## Overview
 This project is a sample application demonstrating the integration of **MemU** (an agentic memory layer for LLM applications). It consists of a React-based frontend and a Flask-based backend that acts as an interface to the MemU API.
 
